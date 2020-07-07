@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-yellowcard",
+  "version": "1.0.0",
+  "description": "This is an ESLint configuration which aims to ensure all of Yellow Card's Platform source code is consistent in style.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^6.2.2",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

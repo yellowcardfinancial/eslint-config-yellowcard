@@ -1,0 +1,23 @@
+{
+    "env": {
+        "browser": true,
+        "es2020": true,
+        "node": true
+    },
+    "extends": [
+        "plugin:vue/essential",
+        "airbnb-base",
+        "plugin:prettier/recommended"
+    ],
+    "parserOptions": { "ecmaVersion": 2018 },
+    "plugins": [
+        "vue"
+    ],
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+            }
+        ]
+    }
+}
